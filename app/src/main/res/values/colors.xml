@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#bc6884</color>
+    <color name="colorPrimaryDark">#89729e</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorCasellaTancada">#dadada</color>
+    <color name="colorCasellaOberta">#eaabf9</color>
+    <color name="win">#84ec89</color>
+    <color name="lose">#f27979</color>
+</resources>

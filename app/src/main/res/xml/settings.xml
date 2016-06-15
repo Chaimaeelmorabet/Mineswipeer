@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:key="flashcard_selection"
+        android:title="General">
+        <EditTextPreference
+            android:hint="@string/teuAlies"
+            android:key="@string/alies_key"
+            android:maxLength="13"
+            android:title="@string/alies" />
+        <EditTextPreference
+            android:inputType="number"
+            android:key="@string/tamany_key"
+            android:maxLength="1"
+            android:title="@string/tamanyGraella" />
+        <CheckBoxPreference
+            android:key="@string/control_temps_key"
+            android:title="@string/controlTemps" />
+        <ListPreference
+            android:entries="@array/levels"
+            android:entryValues="@array/levelsValue"
+            android:key="@string/mines_key"
+            android:title="Dificultat" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="flashcard_selection"
+        android:title="Detalls">
+        <CheckBoxPreference
+            android:key="@string/vibrar_key"
+            android:summary="Vibrar en perdre la partida"
+            android:title="@string/vibrar" />
+        <CheckBoxPreference
+            android:key="@string/so_key"
+            android:summary="So en guanyar la partida"
+            android:title="@string/so" />
+    </PreferenceCategory>
+</PreferenceScreen>

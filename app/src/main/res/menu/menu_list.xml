@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/alias_menu"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Alias" />
+
+    <item
+        android:id="@+id/borrar_menu"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="Borrar" />
+    <item
+        android:id="@+id/mail_menu"
+        android:icon="@android:drawable/ic_menu_send"
+        android:title="Mail" />
+</menu>

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Mineswipeer</string>
+    <string name="HelpText">Ajuda</string>
+    <string name="startGame">Começar Partida</string>
+    <string name="exit">Sortir</string>
+    <string name="helpText">Es tracta d\'aclarir totes les caselles d\'una graella que no ocultin una mina. Algunes caselles tenen un nombre, aquest nombre indica les mines que sumen totes les caselles circumdants. Així, si una casella té el número 3, vol dir que de les vuit caselles que hi ha al voltant (si no és en una cantonada o vora) hi ha 3 amb mines i 5 sense mines. Vigila amb les caselles de les cantonades i vores!! Si es descobreix una casella amb una mina. Es PERD la partida!! T_T Descobrir totes les caselles sense mina significa GUANYAR la partida!!</string>
+    <string name="controlTemps">Control de Temps</string>
+    <string name="tantpercentMines">% Mines</string>
+    <string name="tamanyGraella">Tamany Graella</string>
+    <string name="teuAlies">El teu àlies</string>
+    <string name="alies">Àlies</string>
+    <string name="resultatLog">Àlies: %1$s \n Caselles: %2$d \n  Mines: %3$d%% \n Nº Mines: %4$d \n</string>
+    <string name="mailsubject">Resultat del joc</string>
+    <string name="noclients">No tens cap aplicació de correu electrònic</string>
+    <string name="temps">Temps: %d</string>
+    <string name="casellesRestants">Caselles restants: %d</string>
+    <string name="hasGuanyat">You win this time</string>
+    <string name="hasPerdutPerBomba">"X___X"</string>
+    <string name="hasPerdutPerTemps">"Has esgotat el temps"</string>
+    <string name="about">About</string>
+    <string name="titolDiaiHora">Dia i hora</string>
+    <string name="titolValorsLog">Valors del Log</string>
+    <string name="titolCorreuElectronic">Correu electrònic destinatari</string>
+    <string name="titolEnviarmail">Enviar correu</string>
+    <string name="titolNovaPartida">Nova Partida</string>
+    <string name="defaultalies">Default</string>
+    <string name="defaulttamany">5</string>
+    <string name="playbut">play</string>
+    <string name="bombesRestants">Bombes: %d</string>
+    <string name="aboutme">Aplicació feta per la Chaimae El Morabet Lachkar a "Aplicacions per a dispositius mòbils"  \n Primera Entrega de la pràctica de Curs \n Curs 2015-2016</string>
+    <string name="game">Joc</string>
+    <string name="settings">Settings</string>
+    <string name="alies_key">aliesJugador</string>
+    <string name="tamany_key">tamany</string>
+    <string name="control_temps_key">controlTemps</string>
+    <string name="mines_key">mines</string>
+    <string name="defaultmines">25</string>
+    <string name="selecciona_aplicacio">Tria una aplicació de correu</string>
+    <string name="vibrar">Vibració</string>
+    <string name="vibrar_key">vibrar</string>
+    <string name="so_key">so</string>
+    <string name="so">So</string>
+
+</resources>
